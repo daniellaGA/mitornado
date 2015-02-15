@@ -79,7 +79,6 @@ p {
 .container > * {
   display: none;
   width: 460px;
-  margin-left: -100px;
 }
 
 #intro {
