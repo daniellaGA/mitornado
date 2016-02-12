@@ -3,7 +3,7 @@ body, html {
 }
 
 html {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.301961), rgba(0, 0, 0, 0.301961)), url("../images/bahamas_2015.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.701961), rgba(0, 0, 0, 0.701961)), url("../images/brazilheart.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,7 +13,6 @@ html {
 body {
   -webkit-font-smoothing: antialiased;
   color: #FFFFFF;
-  margin-left: -60px;
 }
 
 

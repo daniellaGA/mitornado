@@ -1,0 +1,156 @@
+/* News 706 */
+@font-face {
+  font-family: 'News 706';
+  src: url('../fonts/news/newsBT-BoldC.eot');
+  src: url('../fonts/news/newsBT-BoldC.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/news/newsBT-BoldC.woff') format('woff'),
+       url('../fonts/news/newsBT-BoldC.ttf') format('truetype'),
+       url('../fonts/news/newsBT-BoldC.svg#news_706_bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'News 706';
+  src: url('../fonts/news/newsBT-ItalicC.eot');
+  src: url('../fonts/news/newsBT-ItalicC.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/news/newsBT-ItalicC.woff') format('woff'),
+       url('../fonts/news/newsBT-ItalicC.ttf') format('truetype'),
+       url('../fonts/news/newsBT-ItalicC.svg#news_706_italic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'News 706';
+  src: url('../fonts/news/newsBT-RomanC.eot');
+  src: url('../fonts/news/newsBT-RomanC.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/news/newsBT-RomanC.woff') format('woff'),
+       url('../fonts/news/newsBT-RomanC.ttf') format('truetype'),
+       url('../fonts/news/newsBT-RomanC.svg#news_706regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* PF DIN */
+@font-face {
+  font-family: 'PF DIN Compressed Pro';
+  src: url('../fonts/pfdin/pfdintextcomppro-bold-webfont.eot');
+  src: url('../fonts/pfdin/pfdintextcomppro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/pfdin/pfdintextcomppro-bold-webfont.woff') format('woff'),
+       url('../fonts/pfdin/pfdintextcomppro-bold-webfont.ttf') format('truetype'),
+       url('../fonts/pfdin/pfdintextcomppro-bold-webfont.svg#pf_din_text_comp_probold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DIN Compressed Pro';
+  src: url('../fonts/pfdin/pfdintextcomppro-medium-webfont.eot');
+  src: url('../fonts/pfdin/pfdintextcomppro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/pfdin/pfdintextcomppro-medium-webfont.woff') format('woff'),
+       url('../fonts/pfdin/pfdintextcomppro-medium-webfont.ttf') format('truetype'),
+       url('../fonts/pfdin/pfdintextcomppro-medium-webfont.svg#pf_din_text_comp_promedium') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DIN Compressed Pro';
+  src: url('../fonts/pfdin/pfdintextcomppro-light-webfont.eot');
+  src: url('../fonts/pfdin/pfdintextcomppro-light-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/pfdin/pfdintextcomppro-light-webfont.woff') format('woff'),
+       url('../fonts/pfdin/pfdintextcomppro-light-webfont.ttf') format('truetype'),
+       url('../fonts/pfdin/pfdintextcomppro-light-webfont.svg#PFDinTextCompProLight') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Circular */
+@font-face {
+  font-family: 'Circular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/circular/lineto-circular-book.eot');
+  src: url('../fonts/circular/lineto-circular-book.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-book.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-book.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-book.svg#CircularBook') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/circular/lineto-circular-bookitalic.eot');
+  src: url('../fonts/circular/lineto-circular-bookitalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-bookitalic.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-bookitalic.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-bookitalic.svg#CircularBookItalic') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: 800;
+  font-style: normal;
+  src: url('../fonts/circular/lineto-circular-black.eot');
+  src: url('../fonts/circular/lineto-circular-black.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-black.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-black.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-black.svg#CircularBlack') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: 800;
+  font-style: italic;
+  src: url('../fonts/circular/lineto-circular-blackitalic.eot');
+  src: url('../fonts/circular/lineto-circular-blackitalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-blackitalic.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-blackitalic.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-blackitalic.svg#CircularBlackItalic') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/circular/lineto-circular-bold.eot');
+  src: url('../fonts/circular/lineto-circular-bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-bold.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-bold.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-bold.svg#CircularBold') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/circular/lineto-circular-bolditalic.eot');
+  src: url('../fonts/circular/lineto-circular-bolditalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-bolditalic.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-bolditalic.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-bolditalic.svg#CircularBookItalic') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../fonts/circular/lineto-circular-medium.eot');
+  src: url('../fonts/circular/lineto-circular-medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-medium.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-medium.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-medium.svg#CircularMedium') format('svg');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-weight: 500;
+  font-style: italic;
+  src: url('../fonts/circular/lineto-circular-mediumitalic.eot');
+  src: url('../fonts/circular/lineto-circular-mediumitalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/circular/lineto-circular-mediumitalic.woff') format('woff'),
+       url('../fonts/circular/lineto-circular-mediumitalic.ttf') format('truetype'),
+       url('../fonts/circular/lineto-circular-mediumitalic.svg#CircularMediumItalic') format('svg');
+}
