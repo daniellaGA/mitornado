@@ -1,93 +1,98 @@
-body, html {
-  height: 100%;
-}
-
-html {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.301961), rgba(0, 0, 0, 0.301961)), url("../images/bahamas_2015.jpg");
-  background-position: 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-body {
-  -webkit-font-smoothing: antialiased;
-  color: #FFFFFF;
-  margin-left: -60px;
-}
-
-
-h1 {
-  font-family: 'Circular', 'Arial';
-  font-weight: 800;
-  font-size: 60px;
-  line-height: 60px;
-  padding-bottom: 20px;
-}
-
-h5, h6 {
-  font-family: 'Circular', 'Arial';
-}
-
-h2 {
-  font-family: 'Circular', 'Arial';
-  font-size: 30px;
-}
-
-h3 {
-  font-family: 'Circular', 'Arial';
-  font-size: 20px;
-  padding-top: 20px;
-  text-decoration: none;
-}
-
-h4 {
-  font-family: 'Circular', 'Arial';
-  font-size: 13px;
-  padding-bottom: 30px;
-  padding-top: 7px;
-}
-
-li, a {
-  font-family: 'Circular', 'Arial';
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 30px;
-  color: #FFFFFF;
-}
-
-p {
-  font-family: 'Circular', 'Arial';
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 25px;
-  color: #FFFFFF;
-}
-
-
-@media (min-width:750px) {
-  .container {
-    padding: 60px 200px;
+  body, html {
+    height: 100%;
   }
-}
 
-@media (max-width:749px) {
-  .container {
-    padding: 50px 50px;
+  html {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.301961), rgba(0, 0, 0, 0.301961)), url("../images/bahamas_2015.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
   }
-}
 
-.container > * {
-  display: none;
-  width: 415px;
-}
+  body {
+    -webkit-font-smoothing: antialiased;
+    color: #FFFFFF;
+    margin-left: -60px;
+  }
 
-#intro {
-  margin-bottom: 16px;
-}
 
-#letter {
-  margin-top: 16px;
-}
+  h1 {
+    font-family: 'Circular', 'Arial';
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 60px;
+    padding-bottom: 20px;
+  }
+
+  h5, h6 {
+    font-family: 'Circular', 'Arial';
+  }
+
+  h2 {
+    font-family: 'Circular', 'Arial';
+    font-size: 30px;
+  }
+
+  h3 {
+    font-family: 'Circular', 'Arial';
+    font-size: 20px;
+    padding-top: 20px;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  h4 {
+    font-family: 'Circular', 'Arial';
+    font-size: 13px;
+    padding-bottom: 30px;
+    padding-top: 7px;
+  }
+
+  li, a {
+    font-family: 'Circular', 'Arial';
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 30px;
+    color: #FFFFFF;
+  }
+
+  p {
+    font-family: 'Circular', 'Arial';
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 25px;
+    color: #FFFFFF;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+
+  @media (min-width:750px) {
+    .container {
+      padding: 60px 200px;
+    }
+  }
+
+  @media (max-width:749px) {
+    .container {
+      padding: 50px 50px;
+    }
+  }
+
+  .container > * {
+    display: none;
+    width: 415px;
+  }
+
+  #intro {
+    margin-bottom: 16px;
+  }
+
+  #letter {
+    margin-top: 16px;
+  }
 
 
