@@ -4,8 +4,6 @@
 
   html {
     background-image: linear-gradient(rgba(0, 0, 0, 0.301961), rgba(0, 0, 0, 0.301961)), url("../images/bahamas_2015.jpg");
-    background-position: 50%;
-    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
   }
